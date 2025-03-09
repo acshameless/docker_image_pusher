@@ -8,3 +8,4 @@ lobehub/lobe-chat
 
 postgres:16-alpine
 ghcr.io/linkwarden/linkwarden:latest
+ollama/ollama
